@@ -11,6 +11,7 @@ namespace ConsoleApp7
         static void Main(string[] args)
         {
             Console.WriteLine("1233");
+            Console.Read();
         }
 
         static void Test()
