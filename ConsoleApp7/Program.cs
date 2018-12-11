@@ -15,7 +15,7 @@ namespace ConsoleApp7
 
         static void Test()
         {
-
+            Console.Read();
         }
     }
 }
